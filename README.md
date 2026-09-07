@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Takalani%20Akonisaho&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full-Stack%20JavaScript%20%7C%20AI%20%26%20LLM%20Integration&descAlignY=58&descSize=18&animation=fadeIn"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=260&section=header&text=Takalani%20Akonisaho&fontSize=54&fontColor=ffffff&fontAlignY=36&desc=Software%20Engineer%20%7C%20Full-Stack%20JavaScript%20%7C%20AI%20%26%20LLM%20Integration&descAlignY=55&descSize=19&animation=fadeIn"/>
 </p>
 
 <p align="center">
@@ -110,6 +110,3 @@
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akonisaho&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
 </p>
 
----
-
-<p align="center"><em>Open to remote Full-Stack / AI Software Engineering roles — 10-15+ hrs/week or full-time.</em></p>
