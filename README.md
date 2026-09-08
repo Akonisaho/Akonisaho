@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=rounded&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Takalani%20Akonisaho&fontSize=50&fontColor=ffffff&fontAlignY=40&desc=Software%20Engineer%20%7C%20Full-Stack%20JavaScript%20%7C%20AI%20%26%20LLM%20Integration&descAlignY=62&descSize=18&animation=fadeIn"/>
+  <img width="100%" src="banner.svg" alt="Takalani Akonisaho — Software Engineer | Full-Stack JavaScript | AI & LLM Integration"/>
 </p>
 
 <p align="center">
@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  Full-stack engineer and Team Captain at Motsoeneng Bill, based in Johannesburg. I build production-grade systems solo — from a Law Society-compliant trust accounting platform to self-hosted AI tools that run on local LLMs instead of shipping your data to a cloud API. BSc Mathematics & Computer Science student (UNISA), National Diploma in Informatics (Cum Laude, 75.21%).
+  Full-stack engineer and Team Captain at Motsoeneng Bill, based in Johannesburg. I build production-grade systems solo — from a Law Society-compliant trust accounting platform to self-hosted AI tools that run on local LLMs instead of shipping your data to a cloud API. BSc Mathematics & Computer Science student (UNISA), National Diploma in Informatics (TUT, 75.21%).
 </p>
 
 <p align="center">

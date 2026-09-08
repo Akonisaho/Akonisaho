@@ -1,0 +1,44 @@
+<svg width="1200" height="220" viewBox="0 0 1200 220" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0a0e14"/>
+      <stop offset="55%" stop-color="#122630"/>
+      <stop offset="100%" stop-color="#1c3f4d"/>
+    </linearGradient>
+    <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse">
+      <path d="M 36 0 L 0 0 0 36" fill="none" stroke="#4fd1c5" stroke-opacity="0.06" stroke-width="1"/>
+    </pattern>
+    <radialGradient id="fade" cx="30%" cy="50%" r="75%">
+      <stop offset="0%" stop-color="#000000" stop-opacity="0"/>
+      <stop offset="70%" stop-color="#000000" stop-opacity="0"/>
+      <stop offset="100%" stop-color="#0a0e14" stop-opacity="0.55"/>
+    </radialGradient>
+  </defs>
+
+  <rect width="1200" height="220" fill="url(#bg)"/>
+  <rect width="1200" height="220" fill="url(#grid)"/>
+  <rect width="1200" height="220" fill="url(#fade)"/>
+
+  <!-- circuit motif, right side -->
+  <g stroke="#4fd1c5" stroke-width="1.5" fill="none" opacity="0.35">
+    <path d="M 860 30 L 940 30 L 940 70 L 1010 70"/>
+    <path d="M 900 130 L 900 90 L 1000 90 L 1000 160 L 1080 160"/>
+    <path d="M 1040 40 L 1040 20 L 1140 20"/>
+    <path d="M 980 190 L 1060 190 L 1060 200"/>
+    <path d="M 1100 90 L 1160 90 L 1160 130 L 1180 130"/>
+  </g>
+  <g fill="#4fd1c5" opacity="0.55">
+    <circle cx="860" cy="30" r="3.5"/>
+    <circle cx="1010" cy="70" r="3.5"/>
+    <circle cx="900" cy="130" r="3.5"/>
+    <circle cx="1080" cy="160" r="3.5"/>
+    <circle cx="1140" cy="20" r="3.5"/>
+    <circle cx="980" cy="190" r="3.5"/>
+    <circle cx="1180" cy="130" r="3.5"/>
+  </g>
+
+  <text x="70" y="108" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="46" font-weight="700" fill="#ffffff" letter-spacing="0.5">Takalani Akonisaho</text>
+  <text x="70" y="148" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="19" font-weight="500" fill="#7fd8cf">Software Engineer&#160;&#160;|&#160;&#160;Full-Stack JavaScript&#160;&#160;|&#160;&#160;AI &amp; LLM Integration</text>
+
+  <rect x="70" y="168" width="56" height="4" rx="2" fill="#4fd1c5"/>
+</svg>
