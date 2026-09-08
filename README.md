@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  Full-stack engineer and Team Captain at Motsoeneng Bill, based in Johannesburg. I build production-grade systems solo — from a Law Society-compliant trust accounting platform to self-hosted AI tools that run on local LLMs instead of shipping your data to a cloud API. BSc Mathematics & Computer Science student (UNISA), National Diploma in Informatics (TUT, 75.21%).
+  Full-stack engineer and Team Captain at Motsoeneng Bill, based in Johannesburg. I build production-grade systems solo — from a Law Society-compliant trust accounting platform to self-hosted AI tools that run on local LLMs instead of shipping your data to a cloud API. BSc Mathematics & Computer Science student (UNISA), National Diploma in Informatics (Cum Laude, 75.21%).
 </p>
 
 <p align="center">
