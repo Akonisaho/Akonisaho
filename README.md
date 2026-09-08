@@ -3,11 +3,11 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&pause=1200&color=2C5364&center=true&vCenter=true&width=720&lines=Solo-built+an+enterprise+system+now+saving+R407%2C100%2Fyear;7+role-based+dashboards%2C+1+developer%2C+0+excuses;Local-LLM+AI+tools+%E2%80%94+production-style%2C+not+demos;Full+ownership%2C+measurable+impact" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&pause=1200&color=1C8A80&center=true&vCenter=true&width=720&lines=Solo-built+an+enterprise+system+now+saving+R407%2C100%2Fyear;7+role-based+dashboards%2C+1+developer%2C+0+excuses;Local-LLM+AI+tools+%E2%80%94+production-style%2C+not+demos;Full+ownership%2C+measurable+impact" alt="Typing SVG"/>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Akonisaho&label=Profile%20Views&color=2c5364&style=flat" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=Akonisaho&label=Profile%20Views&color=1c8a80&style=flat" alt="Profile views"/>
 </p>
 
 <p align="center">
