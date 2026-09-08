@@ -29,7 +29,7 @@
 
 | Project | Impact | Highlights | Stack |
 |---|---|---|---|
-| **[MB SmartTrack](https://github.com/Akonisaho/mb-smarttrack)**<br/>Legal Practice Management System | 🟢 In production · saving **R407,100/yr** | 7 role-based dashboards · Law Society-compliant trust accounting (8 modules) · FICA tracking · [Live demo ↗](https://mb-smarttrack.vercel.app) | `Next.js` `Node.js` `Electron` `PostgreSQL` `Supabase` |
+| **MB SmartTrack** 🔒<br/>Legal Practice Management System | 🟢 In production · saving **R407,100/yr** | 7 role-based dashboards · Law Society-compliant trust accounting (8 modules) · FICA tracking · *Private client codebase — happy to walk through architecture on request* | `Next.js` `Node.js` `Electron` `PostgreSQL` `Supabase` |
 | **[Claim Verifier Agent](https://github.com/Akonisaho/claim-verifier-agent)**<br/>AI Fact-Checking Agent | 🔵 Catches claims that are technically true but deceptively framed | Atomic claim extraction · independent context auditing · human-reviewable verdicts, not a black box | `Python` `Ollama` `Llama 3.2` `Flask` `Docker` |
 | **[Inbox Relief](https://github.com/Akonisaho/inbox-relief)**<br/>Self-Hosted AI Email Assistant | 🟣 Zero data leaves the machine — ready to demo | Electron tray app · Gmail + Outlook ingestion · local-LLM triage · multi-tenant PostgreSQL RLS | `Electron` `FastAPI` `Qdrant` `Ollama` `React` |
 | **[UniPath](https://github.com/Akonisaho/unipath)**<br/>Career Guidance Platform | 🟠 Serves all 26 SA public universities | One registration, one upload, apply everywhere · Gemini-powered course matching | `Next.js` `React Native` `Gemini API` `Supabase` |
