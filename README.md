@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=260&section=header&text=Takalani%20Akonisaho&fontSize=54&fontColor=ffffff&fontAlignY=36&desc=Software%20Engineer%20%7C%20Full-Stack%20JavaScript%20%7C%20AI%20%26%20LLM%20Integration&descAlignY=55&descSize=19&animation=fadeIn"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rounded&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Takalani%20Akonisaho&fontSize=50&fontColor=ffffff&fontAlignY=40&desc=Software%20Engineer%20%7C%20Full-Stack%20JavaScript%20%7C%20AI%20%26%20LLM%20Integration&descAlignY=62&descSize=18&animation=fadeIn"/>
 </p>
 
 <p align="center">
@@ -27,12 +27,12 @@
 
 ### 🚀 Featured Projects
 
-| Project | What it does | Stack |
-|---|---|---|
-| **[MB SmartTrack](https://github.com/Akonisaho/mb-smarttrack)** — *Enterprise Legal Practice Management System* | Solo-architected and built for the firm I work at, replacing their previous system and saving **R407,100/year** — used daily in production. 7 role-based dashboards (Attorney, Manager, Bookkeeper, Receptionist, HR, Client Portal, Admin), a full Law Society-compliant trust accounting module (8 sub-tabs: ledger, receipts, payments, transfers, reconciliation, reports, approvals, settings), FICA compliance tracking, and automated billable time tracking. [Live demo →](https://mb-smarttrack.vercel.app) | Next.js, React, Node.js, Express.js, Electron.js, PostgreSQL, Supabase, Vercel, Cron, REST APIs, OTP Auth |
-| **[Claim Verifier Agent](https://github.com/Akonisaho/claim-verifier-agent)** — *AI Fact-Checking Agent* | An agent that verifies factual claims in corporate documents against source material — built specifically to catch claims that are *technically accurate but deceptively framed*. Runs atomic claim extraction, independent per-claim context auditing, and returns human-reviewable verdicts instead of a single black-box judgment. | Python 3.12, Ollama + Llama 3.2, Flask, Pydantic, Docker |
-| **[Inbox Relief](https://github.com/Akonisaho/inbox-relief)** — *Self-Hosted AI Email Assistant* | A privacy-first email assistant that runs as an Electron system-tray app — no email content ever leaves your machine for a third-party cloud AI. Provider-agnostic ingestion (Gmail + Outlook) behind a shared interface, multi-tenant isolation via PostgreSQL RLS, and a confidence-gated archive/restore workflow with a chat-based rule-teaching interface. Ready to demo. | Electron.js, Python (FastAPI), PostgreSQL, Qdrant, Redis, Ollama (local LLM), React, Docker, Gmail/Graph API |
-| **[UniPath](https://github.com/Akonisaho/unipath)** — *AI Career Guidance & University Application Platform* | A free cross-platform app (web + mobile) helping South African Grade 12 learners apply to all 26 public universities from one place — register once, upload documents once, apply everywhere. Gemini-powered natural-language career guidance maps plain-language interests to formal course names. | Next.js, React Native, Expo, Gemini API, PostgreSQL, Supabase, Fuse.js |
+| Project | Impact | Highlights | Stack |
+|---|---|---|---|
+| **[MB SmartTrack](https://github.com/Akonisaho/mb-smarttrack)**<br/>Legal Practice Management System | 🟢 In production · saving **R407,100/yr** | 7 role-based dashboards · Law Society-compliant trust accounting (8 modules) · FICA tracking · [Live demo ↗](https://mb-smarttrack.vercel.app) | `Next.js` `Node.js` `Electron` `PostgreSQL` `Supabase` |
+| **[Claim Verifier Agent](https://github.com/Akonisaho/claim-verifier-agent)**<br/>AI Fact-Checking Agent | 🔵 Catches claims that are technically true but deceptively framed | Atomic claim extraction · independent context auditing · human-reviewable verdicts, not a black box | `Python` `Ollama` `Llama 3.2` `Flask` `Docker` |
+| **[Inbox Relief](https://github.com/Akonisaho/inbox-relief)**<br/>Self-Hosted AI Email Assistant | 🟣 Zero data leaves the machine — ready to demo | Electron tray app · Gmail + Outlook ingestion · local-LLM triage · multi-tenant PostgreSQL RLS | `Electron` `FastAPI` `Qdrant` `Ollama` `React` |
+| **[UniPath](https://github.com/Akonisaho/unipath)**<br/>Career Guidance Platform | 🟠 Serves all 26 SA public universities | One registration, one upload, apply everywhere · Gemini-powered course matching | `Next.js` `React Native` `Gemini API` `Supabase` |
 
 ---
 
@@ -106,7 +106,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Akonisaho&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akonisaho&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Akonisaho&show_icons=true&hide_border=true&bg_color=00000000&title_color=2C5364&icon_color=2C5364&text_color=6b7280" alt="GitHub Stats"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akonisaho&layout=compact&hide_border=true&bg_color=00000000&title_color=2C5364&text_color=6b7280" alt="Top Languages"/>
 </p>
 
